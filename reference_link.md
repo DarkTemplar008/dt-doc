@@ -10,3 +10,5 @@
 #### 编译器技术
 * [include-what-you-use](https://include-what-you-use.org/)
   >优化头文件的辅助工具
+* [distcc](https://github.com/distcc/distcc)
+  >gcc分布式编译器
