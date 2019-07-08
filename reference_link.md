@@ -12,3 +12,7 @@
   >优化头文件的辅助工具
 * [distcc](https://github.com/distcc/distcc)
   >gcc分布式编译器
+  
+#### Qt
+* [Qt_5_on_Windows_ANGLE_and_OpenGL](https://wiki.qt.io/Qt_5_on_Windows_ANGLE_and_OpenGL)
+  > Qml默认使用OpenGL作为渲染引擎，OpenGL在Windows平台上总是掉链子，需要使用ANGLE来做转换，ANGLE是Chrome底层OpenGL封装库，在Windows上ANGLE将OpenGL转换为DirectX调用
