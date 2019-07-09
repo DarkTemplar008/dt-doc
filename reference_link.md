@@ -12,6 +12,8 @@
   >优化头文件的辅助工具
 * [distcc](https://github.com/distcc/distcc)
   >gcc分布式编译器
+* [为什么多线程读写 shared_ptr 要加锁？](http://www.cppblog.com/Solstice/archive/2013/01/28/197597.html)
+  >对shared_ptr线程安全性做了论述，shared_ptr本身是线程安全的，解引用后肯定线程不安全，deleter也不一定线程安全，作为生产者消费者模型还是不错的
   
 #### Qt
 * [Qt_5_on_Windows_ANGLE_and_OpenGL](https://wiki.qt.io/Qt_5_on_Windows_ANGLE_and_OpenGL)
