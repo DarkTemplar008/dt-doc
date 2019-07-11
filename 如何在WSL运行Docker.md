@@ -1,5 +1,5 @@
 ### 问题
-直接在WSL中安装Docker是不行的，缺少docker demon进程。
+直接在WSL中安装Docker是不行的，缺少docker daemon进程。
 
 ### 实现步骤
 ##### 开启[Hyper-V](https://yeasy.gitbooks.io/docker_practice/install/windows.html)
