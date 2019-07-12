@@ -14,6 +14,9 @@ export DOCKER_HOST=tcp://127.0.0.1:2375
 ##### 测试
 docker run hello-world
 
+### 注意
+* Dokcer Desktop启动后占用大量内存
+
 ### 参考
 * [Docker — 从入门到实践](https://yeasy.gitbooks.io/docker_practice/)
 * [在Linux的Windows子系统上(WSL)使用Docker（Ubuntu）](https://www.cnblogs.com/xiaoliangge/p/9134585.html)
