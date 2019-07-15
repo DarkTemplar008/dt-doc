@@ -1,0 +1,25 @@
+### C++开发者工具整理
+
+* [Visual Studio](https://visualstudio.microsoft.com)
+* [Visual Studio Code](https://visualstudio.microsoft.com)
+* [Beyond Compare](https://www.scootersoftware.com/)
+* [Chrome](https://www.google.com/chrome)
+* [Depends](https://github.com/lucasg/Dependencies/releases/download/v1.9/Dependencies_x64_Release.zip)
+* [Everything](https://everything.en.softonic.com/)
+* [有道云笔记]()
+* [OneNote]()
+* [Notepad++]()
+* [VLC]()
+* [API Monitor]()
+* [WinDbg]()
+* [Qt]()
+* [CMake]()
+* [Docker]()
+* [Sysinternals]()
+* [ffmpeg]()
+* [obs studio]()
+* [git]()
+
+### C++开发者网站整理
+* [github](www.github.com)
+* [gitpod](https://gitpod.io)
