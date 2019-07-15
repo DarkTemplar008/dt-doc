@@ -6,7 +6,7 @@
 * [Life of a Pixel 2018](https://docs.google.com/presentation/d/1boPxbgNrTU0ddsc144rcXayGA_WF53k96imRH8Mp34Y/edit#slide=id.p)
   > h5是如何从代码变成图片的
 * [Smart Pointer Guidelines](https://www.chromium.org/developers/smart-pointer-guidelines)
-  > chromium并不推荐使用在多线程环境先使用引用计数技术，因为chromium的设计理念是线程拥有资源，资源的生命周期约束在线程的生命周期里面，线程间传递消息通过值拷贝方式来实现
+  > chromium并不推荐在多线程环境下使用引用计数技术，因为chromium的设计理念是线程拥有资源，资源的生命周期约束在线程的生命周期里面，线程间传递消息通过值拷贝方式来实现
 
 
 #### 编译器技术
