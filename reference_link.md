@@ -20,3 +20,8 @@
   > Qml默认使用OpenGL作为渲染引擎，OpenGL在Windows平台上总是掉链子，需要使用ANGLE来做转换，ANGLE是Chrome底层OpenGL封装库，在Windows上ANGLE将OpenGL转换为DirectX调用
 * [Dynamic OpenGL implementation loading in Qt 5.4](https://blog.qt.io/blog/2014/11/27/qt-weekly-21-dynamic-opengl-implementation-loading-in-qt-5-4/)
   > 动态加载OpenGL或者ANGLE
+  
+  
+#### OllyDbg
+* [OllyDbg-基础](https://www.hirworld.xyz/posts/aea6ff50/)
+  > OllyDbg基本介绍
