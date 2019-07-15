@@ -19,6 +19,7 @@
 * [ffmpeg]()
 * [obs studio]()
 * [git]()
+* [Dark Reader(Chrome插件)]()
 
 ### C++开发者网站整理
 * [github](www.github.com)
