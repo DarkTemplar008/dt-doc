@@ -3,3 +3,6 @@
 
 ## [高价值文章(reference_link.md)](reference_link.md)
 
+# 乞讨（beg）
+![支付宝Alipay](images/alipay.png)
+
