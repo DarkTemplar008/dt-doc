@@ -27,3 +27,7 @@
 #### OllyDbg
 * [OllyDbg-基础](https://www.hirworld.xyz/posts/aea6ff50/)
   > OllyDbg基本介绍
+  
+#### Windows
+* [api-ms-win-core files](https://www.nirsoft.net/articles/windows_7_kernel_architecture_changes.html)
+  > api-ms-win-core*.dll文件列表详细描述，应该是安全方面的考虑，具体原因待更新
