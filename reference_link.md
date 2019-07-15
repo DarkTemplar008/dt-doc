@@ -32,3 +32,5 @@
 #### Windows
 * [api-ms-win-core files](https://www.nirsoft.net/articles/windows_7_kernel_architecture_changes.html)
   > api-ms-win-core*.dll文件列表详细描述，应该是安全方面的考虑，具体原因待更新
+* [Dependencies](https://github.com/lucasg/Dependencies)
+  > Win10系统上的Depends实在是太慢了，有牛人重新开发了一个新的Depends，实测速度非常快，解压后运行DependenciesGui.exe
