@@ -36,5 +36,5 @@
   > Win10系统上的Depends实在是太慢了，有牛人重新开发了一个新的Depends，实测速度非常快，解压后运行DependenciesGui.exe
   
 #### go
-# [GoForCPPProgrammers](https://github.com/golang/go/wiki/GoForCPPProgrammers)
+* [GoForCPPProgrammers](https://github.com/golang/go/wiki/GoForCPPProgrammers)
   > Go跟C++进行类比，对于C++开发者来说这样的类比是非常适合入门Go的，比直接看Go的神奇的语法有意思得多，也深刻得多，Go确实在服务端开发方面比C++来的简洁，一个channel功能就能释放C++多少代码
