@@ -1,6 +1,8 @@
 #### 图形渲染
 * [剖析Unreal Engine超真实人类的渲染技术Part 1 - 概述和皮肤渲染](https://www.cnblogs.com/timlly/p/11098212.html)
 * [剖析Unreal Engine超真实人类的渲染技术Part 2 - 眼球渲染](https://www.cnblogs.com/timlly/p/11144950.html)
+* [探究光线追踪技术及UE4的实现](https://www.cnblogs.com/timlly/p/11366199.html)
+> 光栅化技术是使用主观方法对三维世界的描述，而光线追踪算法是使用比较客观的方法对三维世界的描述，逻辑简单但计算复杂
 
 
 #### Chromium
