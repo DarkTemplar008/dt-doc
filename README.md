@@ -7,6 +7,6 @@
 * [读书](读书.md)
 
 
-# 乞讨（beg）
-![支付宝Alipay](images/alipay.png)
+# 真相只有一个
+![真相](images/truth.png)
 
